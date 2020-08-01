@@ -5,3 +5,5 @@
 - 📫 How to reach me: https://toanleviet95.github.io
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toanleviet95&count_private=true&theme=algolia&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toanleviet95&layout=compact&theme=algolia)
