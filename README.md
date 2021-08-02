@@ -14,5 +14,3 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toanleviet95&count_private=true&theme=algolia&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toanleviet95&layout=compact&theme=algolia)
-
-<code><img src="https://api.daily.dev/devcards/e4c8e4b7d5bd4b2784e0001fa79683fb.png?r=dv3" width="400" alt="tonlee's Dev Card"/></code>
