@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toanleviet95&layout=compact&theme=algolia)
 
-<code><a href="https://app.daily.dev/tonlee"><img src="https://api.daily.dev/devcards/e4c8e4b7d5bd4b2784e0001fa79683fb.png?r=dv3" width="400" alt="tonlee's Dev Card"/></a></code>
+<code><img src="https://api.daily.dev/devcards/e4c8e4b7d5bd4b2784e0001fa79683fb.png?r=dv3" width="400" alt="tonlee's Dev Card"/></code>
